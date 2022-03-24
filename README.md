@@ -6,10 +6,12 @@
 </h1>
 
 ## 🚀 Table of contents
+
 - Introduction
 - Set up
 - Local development
 - Design resource
+
 1.  **Introduction**
 
     Welcome to the Zorig Foundation project's Development Kit!
@@ -19,13 +21,13 @@
 2.  **Set up**
 
     Run these commands to set up:
-    
+
     ```
     git clone https://github.com/Enhmunh-E/ZorigSan.git
 
     yarn init gatsby
     ```
-  
+
 3.  **Local Development**
 
     Requirements:
@@ -33,15 +35,17 @@
     -NodeJS
 
     -Gatsby
-    
+
     -graphQL
-   
+
     Navigate into your new site’s directory and start it up.
 
     ```
     npm run start
     ```
-    This command starts a local development server and open up a browser window. 
+
+    This command starts a local development server and open up a browser window.
 
 4.  **Design resource**
-  - https://www.figma.com/file/fkaaGx2lJbKrffdntKekYL/Untitled?node-id=0%3A1
+
+- https://www.figma.com/file/fkaaGx2lJbKrffdntKekYL/Untitled?node-id=0%3A1
